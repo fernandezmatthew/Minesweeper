@@ -1,0 +1,19 @@
+CLdllx32 (x32 dll files)
+
+- libstdc++-6.dll
+- lib gcc_s_dw2-1.dll
+
+CLdllx64 (x64 dll files)
+
+-same std
+-same gcc
+
+CLVS (no sfml dll files)
+
+- MSVCP140D.dll
+- VCRUNTIME140D.dll
+- ucrtbased.dll
+
+CL (no sfml dll files)
+
+- same gcc
